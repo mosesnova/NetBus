@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nUgdeYIduZbJPbtXlxDI7L3EbzvXnz9MqIMiu5KNPJIUncqUoQzWrF5+15Aput3KquQVzfbWo0BH39y7XdRzAw==",
+  "success": true,
+  "projectFilePath": "D:\\NetBus\\NetBus\\NetBus\\NetBus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moses\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

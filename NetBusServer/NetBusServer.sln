@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetBusServer", "NetBusServer\NetBusServer.csproj", "{19BD322B-BBAF-4074-8D80-6A350FF1DDE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19BD322B-BBAF-4074-8D80-6A350FF1DDE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19BD322B-BBAF-4074-8D80-6A350FF1DDE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19BD322B-BBAF-4074-8D80-6A350FF1DDE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19BD322B-BBAF-4074-8D80-6A350FF1DDE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBB66D9B-C9F8-45CA-AB43-CC0062F26D78}
+	EndGlobalSection
+EndGlobal

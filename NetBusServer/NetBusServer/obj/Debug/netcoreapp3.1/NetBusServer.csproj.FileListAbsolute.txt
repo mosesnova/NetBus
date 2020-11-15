@@ -1,0 +1,13 @@
+D:\NetBus\NetBusServer\NetBusServer\bin\Debug\netcoreapp3.1\NetBusServer.exe
+D:\NetBus\NetBusServer\NetBusServer\bin\Debug\netcoreapp3.1\NetBusServer.deps.json
+D:\NetBus\NetBusServer\NetBusServer\bin\Debug\netcoreapp3.1\NetBusServer.runtimeconfig.json
+D:\NetBus\NetBusServer\NetBusServer\bin\Debug\netcoreapp3.1\NetBusServer.runtimeconfig.dev.json
+D:\NetBus\NetBusServer\NetBusServer\bin\Debug\netcoreapp3.1\NetBusServer.dll
+D:\NetBus\NetBusServer\NetBusServer\bin\Debug\netcoreapp3.1\NetBusServer.pdb
+D:\NetBus\NetBusServer\NetBusServer\obj\Debug\netcoreapp3.1\NetBusServer.csprojAssemblyReference.cache
+D:\NetBus\NetBusServer\NetBusServer\obj\Debug\netcoreapp3.1\NetBusServer.AssemblyInfoInputs.cache
+D:\NetBus\NetBusServer\NetBusServer\obj\Debug\netcoreapp3.1\NetBusServer.AssemblyInfo.cs
+D:\NetBus\NetBusServer\NetBusServer\obj\Debug\netcoreapp3.1\NetBusServer.csproj.CoreCompileInputs.cache
+D:\NetBus\NetBusServer\NetBusServer\obj\Debug\netcoreapp3.1\NetBusServer.dll
+D:\NetBus\NetBusServer\NetBusServer\obj\Debug\netcoreapp3.1\NetBusServer.pdb
+D:\NetBus\NetBusServer\NetBusServer\obj\Debug\netcoreapp3.1\NetBusServer.genruntimeconfig.cache
