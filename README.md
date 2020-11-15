@@ -1,4 +1,4 @@
 # NetBus
  
  
- ![Test](https://github.com/mosesnova/NetBus/blob/main/NetBus.JPG)
+ ![Test](https://github.com/mosesnova/NetBus/blob/main/NetBus.jpg)
