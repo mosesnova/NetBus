@@ -7,4 +7,4 @@
  Books and References
  
  Let Us C - Yashavant Kanethkar <br />
- Computer Graphics - Dr. Burkhard Wünsche (University of Auckland)
+ Computer Graphics and C programming - Dr. Burkhard Wünsche (University of Auckland)
