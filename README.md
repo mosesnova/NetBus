@@ -5,6 +5,7 @@
   ![Test](https://github.com/mosesnova/NetBus/blob/main/fac.jpg)
    ![Test](https://github.com/mosesnova/NetBus/blob/main/erick.jpg)
       ![Test](https://github.com/mosesnova/NetBus/blob/main/countermeasure.jpg)
+       ![Test](https://github.com/mosesnova/NetBus/blob/main/knuthmorrisonpratt.jpg)
  
  
  Books and References
